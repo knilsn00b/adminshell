@@ -1,7 +1,25 @@
 #!/bin/bash
 #made by Pranjal tiwari
 #email id pranjaltiwariit@gmail.com,cristiano00717@gmail.com
-#can use the code modify it and distribute to others freely,
+#Product offers the following services
+                             
+                         # Hostname
+                         # System Distro version                                         
+                         # current login users
+                         # Network adaptors
+                         # Kernel's Routing table                                  
+                         # System's memory
+                         # Nameserver
+                         # netstat  
+                         # scan network
+                         # port scan #OS Fingerpring #firewall status 
+                         # Running Processes 
+                         # h/w information of system
+                         # BIOS information                   
+                         # Wireless interface
+                         # hard drives mounted 
+
+#code can be  used under GPL v2 lisence modify it and distribute to others freely
 #output generated file
 output="network.$(date +'%d-%m-%y').info.txt"
 
